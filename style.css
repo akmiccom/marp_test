@@ -1,0 +1,36 @@
+/* @theme custom */
+/* Author: Your Name */
+
+@import "default";
+
+section title {
+    color: purple;
+}
+
+/* section h1 {
+    color: red;
+} */
+
+section h2 {
+    color: blue;
+}
+
+section h3 {
+    color: green;
+}
+
+section h4 {
+    color: gray;
+}
+
+section h5 {
+    color: red;
+}
+
+section h6 {
+    color: black;
+}
+
+section.slide {
+    color: black;
+}
